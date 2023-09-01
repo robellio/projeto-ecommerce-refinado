@@ -12,3 +12,7 @@ Começando desde o planejamento como:
     <li>A construção do projeto.</li>
 </ol>
 </p>
+
+## Modelo
+
+![E-commerce Refinado](ecommerce-refinado/ecommerce_refinado.png)
